@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="090b5175-301d-4b6c-b759-ee64109ce7f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/4_AI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4_AI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pr1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pr2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MSrVVdPl6iWQHuHimd97rLIp1s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +55,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,7 +71,7 @@
       <workItem from="1677771853033" duration="7483000" />
       <workItem from="1677951699876" duration="411000" />
       <workItem from="1679052705610" duration="1461000" />
-      <workItem from="1679060924037" duration="1640000" />
+      <workItem from="1679060924037" duration="2142000" />
     </task>
     <servers />
   </component>
