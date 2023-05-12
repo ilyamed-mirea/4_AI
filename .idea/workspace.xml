@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="090b5175-301d-4b6c-b759-ee64109ce7f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pr6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr8.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +65,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ilyaMedvedev\git\4_AI" />
+      <recent name="D:\ilyaMedvedev\git\4_AI\pr4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,7 +82,8 @@
       <workItem from="1679060924037" duration="2142000" />
       <workItem from="1680802612061" duration="42000" />
       <workItem from="1681471853774" duration="4372000" />
-      <workItem from="1682681179821" duration="866000" />
+      <workItem from="1682681179821" duration="982000" />
+      <workItem from="1683890913334" duration="1499000" />
     </task>
     <servers />
   </component>
